@@ -43,12 +43,6 @@ I’m a passionate Full-Stack Developer with hands-on experience in designing, d
 *Orme Camune* is an immersive digital experience created to support and celebrate an outdoor community of adventurers and nature-lovers.
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=maiwandzazai&theme=default)
-
----
-
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-Maiwand%20Zazai-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maiwand-zazai)  
