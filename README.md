@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Maiwand Zazai, a full-time full-stack developer 👨‍💻 working for Fedabo holding since 2024🚀</div>  
+### <div align="center">I'm Maiwand Zazai, a full-time full-stack developer 👨‍💻 working as a freelancer🚀</div>  
   
 
 - 🔭 I’m currently working on [SomePrivateProjects](https://github.com/MaiwandZazai786)  
@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning .NET & SQLSERVER  
   
 
-- ❓ Ask me about anything related to Tall stack and related technologies  
+- ❓ Ask me about anything related to tall-stack and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
