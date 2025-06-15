@@ -27,7 +27,8 @@ I’m a passionate Full-Stack Developer with hands-on experience in designing, d
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=fff)  
 ![Livewire](https://img.shields.io/badge/-Livewire-4E1DD2?logo=laravel&logoColor=fff)  
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=fff)  
-![FilamentPHP](https://img.shields.io/badge/-FilamentPHP-F97316?logo=laravel&logoColor=fff)
+![FilamentPHP](https://img.shields.io/badge/-FilamentPHP-F97316?logo=laravel&logoColor=fff)  
+![TALL Stack](https://img.shields.io/badge/-TALL%20Stack-0EA5E9?logo=laravel&logoColor=fff)
 
 *Databases*  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)  
@@ -35,18 +36,16 @@ I’m a passionate Full-Stack Developer with hands-on experience in designing, d
 
 ---
 
-### 🚀 Featured Project
+### 🚴‍♂ Featured Project
 
 #### 🔗 [Orme-Camune Project](https://www.ormecamune.it)
 
-An impactful web application focused on promoting cultural heritage and community projects in the Camunian region.
-
+*Orme Camune* is an immersive digital experience created to support and celebrate an outdoor community of adventurers and nature-lovers.
 ---
 
 ### 📊 GitHub Stats
 
 ![Maiwand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maiwandzazai&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maiwandzazai&layout=compact&theme=default)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=maiwandzazai&theme=default)
 
 ---
