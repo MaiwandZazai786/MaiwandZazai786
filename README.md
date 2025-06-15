@@ -45,7 +45,6 @@ I’m a passionate Full-Stack Developer with hands-on experience in designing, d
 
 ### 📊 GitHub Stats
 
-![Maiwand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maiwandzazai&show_icons=true&theme=default)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=maiwandzazai&theme=default)
 
 ---
